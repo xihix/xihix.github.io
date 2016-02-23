@@ -1,3 +1,24 @@
-# jemdoc: menu{MENU}{index.html}
-= jemdoc -- example page
-[https://jemnz.com/ Jacob Mattingley] ([www@jemnz.com])
+# jemdoc: menu{MENU}{index.html},addcss{xih.css}
+
+{{<hline>}}
+
+= Homepage of Xi Huang 
+
+{{<img src="pics/me.jpg" height="220" width="150">}}
+
+== Introduction
+
+Welcome to my homepage! I am currently a graduate student in the [http://sist.shanghaitech.edu.cn School of Information Science and Technology] at ShanghaiTech University, with my advisor [http://sist.shanghaitech.edu.cn/faculty/shaozy/home.html  Prof. Ziyu Shao]. My current research focuses on the design and analysis of optimization algorithms for interesting problems in data center networks. Before being at ShanghaiTech, I received my B.S. degree in software engineering at Nanjing University. I do enjoy the research and study life here at ShanghaiTech! 
+
+== Research Interests
+
+At present, my research interest concentrates on the design and analysis of distributed scheduling algorithms in data center networks, so as to make the trade-off between the cost of network failures and bandwidth reduction, as well as other interesting problems in data center networks. Welcome any discussion over related topics, and you can get contact with me via any of the following ways! 
+
+== Contact
+Xi Huang
+- Room 222, No.8 Building, 319 Yueyang Rd., Shanghai
+- Contact me via E-mail: huangxi@shanghaitech.edu.cnn
+
+== Other interests 
+
+I am interested in learning languages such as Latin and Sanskrit, through which I feel touch with ancient cultures that still illuminate the way human beings are thinking and behaving; I enjoy reading books about Asian history and European history (those parts related to religions and society), philosophy, and art. I am also interested in exploring programming languages, especially functional programming languages such as Haskell, Racket etc. There is more to talk. 'd love to make any friends that share those interests with me!
